@@ -1,6 +1,7 @@
 ---
 layout: page_ja
 title: Master Effects
+title_long: Master Effect Units
 title_long: マスタエフェクトユニット覧
 permalink: /ja/unit-index/masterfx/
 language: ja

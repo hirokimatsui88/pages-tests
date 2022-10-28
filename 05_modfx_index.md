@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Modulation Effects
+title_long: Modulation Effect Units
 permalink: /unit-index/modfx/
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index

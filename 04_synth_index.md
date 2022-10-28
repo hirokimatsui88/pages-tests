@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Synths
+title_long: Synth Units
 permalink: /unit-index/synth/
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
