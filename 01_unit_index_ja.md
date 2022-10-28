@@ -4,6 +4,7 @@ title: Unit Index
 title_long: ユニット一覧
 permalink: /ja/unit-index/
 language: ja
+has_children: true
 last_modified_on: 2021-01-19 12:35:00 +9000
 ---
 
