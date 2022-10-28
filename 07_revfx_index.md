@@ -7,8 +7,6 @@ parent: Unit Index
 nav_order: 2
 ---
 
-## Reverb Effect Units
-
 _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp_
 
 _Note: The reverb effect section can contain effects that perform other functions than reverberation, see descriptions below._

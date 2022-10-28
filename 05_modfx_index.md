@@ -7,8 +7,6 @@ parent: Unit Index
 nav_order: 2
 ---
 
-## Modulation Effect Units
-
 _Note: Additions, modifications, broken links? Let us know at logue-sdk@korg.co.jp_
 
 | Name | Developer | Description | Platforms | |

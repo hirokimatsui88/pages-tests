@@ -7,8 +7,6 @@ parent: Unit Index
 nav_order: 2
 ---
 
-## Master Effect Units
-
 _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp_
 
 | Name | Developer | Description | Platforms | |

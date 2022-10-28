@@ -9,8 +9,6 @@ parent: Unit Index
 nav_order: 2
 ---
 
-## リバーブ
-
 _Note: 追加,訂正，リンク切れについては logue-sdk@korg.co.jp までご連絡下さい._
 
 _Note: The reverb effect section can contain effects that perform other functions than reverberation, see descriptions below._
