@@ -40,7 +40,7 @@ Delay and reverb effects are both send effects that are processed after the modu
 
 Four types of custom units can be created for this platform: synths, delay effects, reverb effects, and master effects.
 
-[drumlogue](https://www.korg.com/products/drums/drumlogue) custom unit API is not compatible with previously discussed target platforms, however there are similarities in the core API structure which should make porting units from one platform to the other relatively straightforward.
+The [drumlogue](https://www.korg.com/products/drums/drumlogue) custom unit API is not compatible with previously discussed target platforms, however there are similarities in the core API structure which should make porting units from one platform to the other relatively straightforward.
 
 ### Synths
 
