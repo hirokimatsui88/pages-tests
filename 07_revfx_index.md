@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Reverb Effect Index
+title: Reverb Effects
 permalink: /unit-index/revfx/
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
+nav_order: 2
 ---
 
 ## Reverb Effect Units

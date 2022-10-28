@@ -1,11 +1,12 @@
 ---
 layout: page_ja
-title: Modulation Effect Index
+title: Modulation Effects
 title_long: モジュレーションユニット覧
 permalink: /ja/unit-index/modfx/
 language: ja
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
+nav_order: 2
 ---
 
 ## モジュレーション

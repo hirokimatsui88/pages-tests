@@ -1,11 +1,12 @@
 ---
 layout: page_ja
-title: Reverb Effect Index
+title: Reverb Effects
 title_long: リバーブユニット覧
 permalink: /ja/unit-index/revfx/
 language: ja
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
+nav_order: 2
 ---
 
 ## リバーブ
