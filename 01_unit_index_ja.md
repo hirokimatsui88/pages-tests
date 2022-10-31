@@ -16,4 +16,4 @@ last_modified_on: 2021-01-19 12:35:00 +9000
  * [ディレーエフェクト](/ja/unit-index/delfx)
  * [リバーブエフェクト](/ja/unit-index/revfx)
  * [マスターエフェクト](/ja/unit-index/masterfx)
-
+ * [その他](/ja/unit-index/misc)

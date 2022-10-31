@@ -14,4 +14,5 @@ The unit index has been split into pages for each unit type:
  * [Delay Effects](/unit-index/delfx)
  * [Reverb Effects](/unit-index/revfx)
  * [Master Effects](/unit-index/masterfx)
+ * [Miscelaneous](/unit-index/misc)
 
