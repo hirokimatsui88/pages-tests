@@ -6,7 +6,7 @@ $content-width: 90%;
 @import "{{ site.theme }}";
 
 .children {
-    font-size: $small-font-size
+    font-size: $small-font-size;
     // visibility: hidden;
     // opacity: 0;
     // position: absolute;
@@ -14,5 +14,8 @@ $content-width: 90%;
     // margin-top: 1rem;
     // left: 0;
     // display: none;
+    margin-top: 1rem;
+    margin-left: 20px;
+    left: 0;
 }
 
