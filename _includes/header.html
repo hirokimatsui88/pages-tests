@@ -22,7 +22,7 @@
             {%- if my_page.title -%}
               {%- unless my_page.language or my_page.nav_order == 2 -%}
                 {%- if my_page.has_children -%}
-          <div><a class="page-link parent" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <span><a class="page-link parent" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           <span class="children">
                   {%- assign childrens = site.pages | where: "parent", my_page.title -%}
                   {%- for page in childrens -%}
@@ -30,7 +30,7 @@
             <a class="page-link child" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
                     {%- endunless -%}
                   {%- endfor -%}
-          </span></div>
+          </span></span>
                 {%- else -%}
           <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
