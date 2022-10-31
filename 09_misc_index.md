@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscelaneous
-title_long: Miscelaneaous Units
+title_long: Miscelaneaous
 permalink: /unit-index/misc/
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
