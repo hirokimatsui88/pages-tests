@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Miscelaneous
+title_long: Miscelaneaous Units
 permalink: /unit-index/misc/
 last_modified_on: 2022-10-27 12:35:00 +9000
 parent: Unit Index
 nav_order: 2
 ---
-
-## Miscelaneous 
 
 _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp_
 
