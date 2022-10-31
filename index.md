@@ -14,7 +14,7 @@ Four types of custom units can be created for these platforms: oscillators, modu
 
 These platforms' APIs are essentially the same and are binary compatible. However, in order to compensate for performance differences, custom units should be optimized and built for each platform separately.
 
-## Oscillators
+### Oscillators
 
 Custom oscillators are self contained sound generators, which are expected to provide a steady audio signal via a buffer processing callback. These are processed as part of the target platform's voice structure, meaning that articulation and filtering is already taken care of, the oscillator need only to provide a waveform according to the specified pitch information, and other available parameters.
 
