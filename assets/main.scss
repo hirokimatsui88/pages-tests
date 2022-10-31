@@ -5,6 +5,10 @@ $content-width: 90%;
 
 @import "{{ site.theme }}";
 
+.subnav {
+    position: relative;
+}
+
 .parent {
     float: left;
 }
