@@ -24,7 +24,7 @@
                 {%- if my_page.has_children -%}
           <a class="page-link parent" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           <span class="children">
-                  {%- for page in site.pages | where: "parent", my_page.title | first -%}
+                  {%- for page in site.pages | where: "page.parent", my_page.title | first -%}
                     {%- unless page.language -%}
             parent: {{ page.parent | escape }}
             <a class="page-link child" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
