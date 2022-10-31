@@ -15,12 +15,3 @@ The unit index has been split into pages for each unit type:
  * [Reverb Effects](/unit-index/revfx)
  * [Master Effects](/unit-index/masterfx)
 
-=== "tab 1"
-
-Test tab 1 content
-
-=== "tab 2"
-
-Test tab 2 content
-
-
