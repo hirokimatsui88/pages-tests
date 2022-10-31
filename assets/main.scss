@@ -6,19 +6,13 @@ $content-width: 90%;
 @import "{{ site.theme }}";
 
 .children {
+    font-size: $small-font-size
     // visibility: hidden;
     // opacity: 0;
-    position: absolute;
-    transition: all 0.5s ease;
-    margin-top: 1rem;
-    left: 0;
+    // position: absolute;
+    // transition: all 0.5s ease;
+    // margin-top: 1rem;
+    // left: 0;
     // display: none;
 }
-
-// .parent a:hover > .children,
-// .parent a:focus > .children {
-//     visibility: visible;
-//     opacity: 1;
-//     display: block;
-// }
 
