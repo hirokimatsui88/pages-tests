@@ -3,5 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$max-width: 100%;
+.inner {
+  max-width: 100%;
+}
 
