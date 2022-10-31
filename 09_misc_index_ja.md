@@ -1,6 +1,6 @@
 ---
 layout: page_ja
-title: Miscelaneous Index
+title: Miscelaneous
 title_long: その他関連ソフト覧
 permalink: /ja/unit-index/misc/
 language: ja
