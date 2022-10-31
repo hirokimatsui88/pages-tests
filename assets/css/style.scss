@@ -3,9 +3,8 @@
 
 @import "{{ site.theme }}";
 
-$content-width: 100% !default;
-
 .wrapper {
+    background-color: #555555;
     max-width: 1024px;
 }
 
