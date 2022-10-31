@@ -23,6 +23,7 @@
               {%- unless my_page.language or my_page.nav_order == 2 -%}
                 {%- if my_page.has_children -%}
           <a class="page-link parent" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <hr/>
           <span class="children">
                   {%- assign childrens = site.pages | where: "parent", my_page.title -%}
                   {%- for page in childrens -%}
