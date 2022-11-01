@@ -8,7 +8,7 @@ parent: Unit Index
 nav_order: 2
 ---
 
-_Note: Additions, modifications, broken links? Let us know at logue-sdk@korg.co.jp_
+_Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp or submit a pull request modifying the table below_
 
 | Name | Developer | Description | Platforms | |
 | [Leslie](https://www.2getheraudio.com/korg-multi-engine/b3-organ/) | 2getheraudio | Leslie effect to be paired with B3 Organ | pro, xd, nts-1 | paid |

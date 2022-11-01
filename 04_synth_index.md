@@ -8,7 +8,7 @@ parent: Unit Index
 nav_order: 2
 ---
 
-_Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp_
+_Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp or submit a pull request modifying the table below_
 
 | Name | Developer | Description | Platforms | |
 | Nano | Sinevibes |             | drum | built-in |
