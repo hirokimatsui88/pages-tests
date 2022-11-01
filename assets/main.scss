@@ -12,6 +12,10 @@ header {
         display: block;
     }
 
+    .site-nav .page-link:not(:last-child) {
+        margin-right: 0px; // disable this, conflicts with sub menus
+    }
+    
     .page-link:hover {
         color: #333;
     }
