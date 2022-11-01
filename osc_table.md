@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 | Name | Developer | Description | Platforms | |
 | [B3 Organ](https://www.2getheraudio.com/korg-multi-engine/b3-organ/) | 2getheraudio | Organ emulation, to be paired with Leslie effect | pro, xd, nts-1 | paid |
