@@ -34,7 +34,7 @@ _Note: 追加,訂正，リンク切れについては logue-sdk@korg.co.jp ま�
 | [FMonsta](https://www.dirtboxsynth.com/sd_product/fmonsta-bundle/) | Dirtbox Synth | | pro, xd | 有料 |
 | [Morph](https://www.dirtboxsynth.com/sd_product/morph/) | Dirtbox Synth | Wavetable oscillator pack | pro, xd, nts-1 | 有料 |
 | [ORGANism](https://www.dirtboxsynth.com/sd_product/organism/) | Dirtbox Synth | Drawbar organ oscillator | pro, xd, nts-1 | 有料 |
-| [Origami](https://www.dirtboxsynth.com/sd_product/origami/) | Dirtbox Synth|Wavefolding oscillator | | pro, xd | 無料\* |
+| [Origami](https://www.dirtboxsynth.com/sd_product/origami/) | Dirtbox Synth | Wavefolding oscillator | pro, xd | 無料\* |
 | [Physiq](https://www.dirtboxsynth.com/sd_product/physiq/) | Dirtbox Synth | Digital waveguide oscillator | pro, xd | 有料 |
 | [polyChord](https://www.dirtboxsynth.com/sd_product/polychord/) | Dirtbox Synth | Paraphonic oscillator and chord sampler | nts-1 | 有料 |
 | [PWG](https://www.dirtboxsynth.com/sd_product/pwg-parametric-waveform-generator/) | Dirtbox Synth | Parametric waveform generator | pro, xd | 有料 |
