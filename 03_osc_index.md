@@ -101,6 +101,7 @@ _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp
 <!-- | [vbass](https://github.com/tweeeeeak/nts) | Tweeeeeak | Volca Bass style triple oscillator | nts-1 | free | -->
 <!-- | [VOSIM](https://tyrannosaurus.ru/posts/2020-03-10-logue-vosim.html) | Tyrannosaurus | Werner Kaegi voice simulation | pro, xd, nts-1 | donation | -->
 
-{% capture table %}{% include osc_table.md %}{% endcapture %}
-{% table | markdownify %}
+<!-- {% capture table %}{% include osc_table.md %}{% endcapture %} -->
+<!-- {% table | markdownify %} -->
 
+{% include osc_table.md %}
