@@ -104,4 +104,4 @@ _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp
 <!-- {% capture table %}{% include osc_table.md %}{% endcapture %} -->
 <!-- {% table | markdownify %} -->
 
-{% include osc_table.md %}
+{% include_relative osc_table.md %}
