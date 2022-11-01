@@ -23,7 +23,7 @@
               {%- unless my_page.language or my_page.nav_order == 2 -%}
                 {%- if my_page.has_children -%}
         <li class="menu-item has-sub-menu">
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <a class="page-link" href="#">{{ my_page.title | escape }}</a>
           <ul class="sub-menu">
                   {%- assign childrens = site.pages | where: "parent", my_page.title -%}
                   {%- for page in childrens -%}
