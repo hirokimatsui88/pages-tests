@@ -10,11 +10,11 @@ header {
     .wrapper {
         position: relative;
         display: block;
-        // align-items: right;
-        // justify-content: space-between;
-
     }
 
+    .page-link:hover {
+        color: #333;
+    }
     
     .site-nav {
         .menu {
@@ -29,7 +29,8 @@ header {
                     text-decoration: none;
                     padding: 10px 25px;
 
-                    // &:hover {                        
+                    // &:hover {
+                    
                     // }
                 }
 
@@ -74,6 +75,8 @@ header {
                     background-color: #fdfdfd;
                     border: 1px solid #e8e8e8;
                     border-radius: 5px;
+
+                    font-size: 0.8em;
                     
                     .menu-item {
                         width: 100%;
@@ -96,21 +99,7 @@ header {
         } // .menu
 
         @media screen and (max-width: 600px) {
-            // display: block;
-            // position: absolute;
-            // top: 0;
-            // left: 0;
-            // width: 100vw;
-            // min-height: 100vh;
-            // z-index: 999;
-
-            // opacity: 0;
-            // pointer-events: none;
-
-            // transition: 0.3s ease-out;
-
             .menu {
-                display: none;
                 flex-direction: column;
 
                 .has-sub-menu {
@@ -123,6 +112,7 @@ header {
                             top: 0;
                             left: 0;
                             right: 0;
+                            border: none;
                         }
                     }
 
