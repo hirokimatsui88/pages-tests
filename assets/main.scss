@@ -106,13 +106,13 @@ header {
                     > .sub-menu {
                         display: none;
                         position: relative;
-
+                        border: none;
+                        
                         .sub-menu {
                             position: relative;
                             top: 0;
                             left: 0;
                             right: 0;
-                            border: none;
                         }
                     }
 
