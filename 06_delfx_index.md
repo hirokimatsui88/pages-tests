@@ -23,7 +23,7 @@ _Note: The delay effect section can contain effects that perform other functions
 | [Grit](http://hammondeggsmusic.ca/logueplugins/grit.html) | Hammond Eggs Music | A gritty analog style echo effect | pro, xd, nts-1 | donation |
 | [pseudo](http://hammondeggsmusic.ca/logueplugins/pseudo.html) | Hammond Eggs Music | A unique mono looper with adjustable stereo playback spread | pro, xd, nts-1 | donation |
 | [Vector](http://hammondeggsmusic.ca/logueplugins/vector.html) | Hammond Eggs Music | An experimental vector-graphic video game | pro, xd, nts-1 | donation |
-| [while(1)](http://hammondeggsmusic.ca/logueplugins/while1.html) | Hammond Eggs Music | A versatile looper / metronome |  donation |
+| [while(1)](http://hammondeggsmusic.ca/logueplugins/while1.html) | Hammond Eggs Music | A versatile looper / metronome | pro, xd, nts-1 | donation |
 | [Crusher](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Bit crusher and decimator | pro, xd, nts-1 | free |
 | [Gator](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Kaossilator-style gate arpeggiator | pro, xd, nts-1 | free |
 | [Hyper](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Unison effect inspired by supersaw/hypersaw | pro, xd, nts-1 | free |
