@@ -19,12 +19,12 @@ _Note: The delay effect section can contain effects that perform other functions
 | [pitchshift](https://github.com/centrevillage/cv_logue/tree/master/delfx/pitchshift) | centrevillage |  | pro, xd, nts-1 | 無料 |
 | [reverse](https://github.com/centrevillage/cv_logue/tree/master/delfx/reverse) | centrevillage |  | pro, xd, nts-1 | 無料 |
 | [stutter](https://github.com/centrevillage/cv_logue/tree/master/delfx/stutter) | centrevillage |  | pro, xd, nts-1 | 無料 |
-| [Exotic Delay Pack](https://www.dirtboxsynth.com/sd_product/exotic-delay-pack/) | Dirtbox Synth | Modulated, rising, falling, _sick_ delays |  paid |
+| [Exotic Delay Pack](https://www.dirtboxsynth.com/sd_product/exotic-delay-pack/) | Dirtbox Synth | Modulated, rising, falling, _sick_ delays | pro, xd, nts-1 | 有料 |
 | [Arrhh!](http://hammondeggsmusic.ca/logueplugins/arrhh.html) | Hammond Eggs Music | A vocal formant filter delay FX | pro, xd, nts-1 | 寄付 |
 | [Grit](http://hammondeggsmusic.ca/logueplugins/grit.html) | Hammond Eggs Music | A gritty analog style echo effect | pro, xd, nts-1 | 寄付 |
 | [pseudo](http://hammondeggsmusic.ca/logueplugins/pseudo.html) | Hammond Eggs Music | A unique mono looper with adjustable stereo playback spread | pro, xd, nts-1 | 寄付 |
 | [Vector](http://hammondeggsmusic.ca/logueplugins/vector.html) | Hammond Eggs Music | An experimental vector-graphic video game | pro, xd, nts-1 | 寄付 |
-| [while(1)](http://hammondeggsmusic.ca/logueplugins/while1.html) | Hammond Eggs Music | A versatile looper / metronome | pro, xd, nts-1 | donation |
+| [while(1)](http://hammondeggsmusic.ca/logueplugins/while1.html) | Hammond Eggs Music | A versatile looper / metronome | pro, xd, nts-1 | 寄付 |
 | [Crusher](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Bit crusher and decimator | pro, xd, nts-1 | 無料 |
 | [Gator](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Kaossilator-style gate arpeggiator | pro, xd, nts-1 | 無料 |
 | [Hyper](https://github.com/dukesrg/logue-fx) | Oleg Burdaev | Unison effect inspired by supersaw/hypersaw | pro, xd, nts-1 | 無料 |
