@@ -38,14 +38,14 @@ header {
                         position: relative;
                         padding-right: 35px;
 
-                        &:after {
-                            content: "+";
-                            display: block;
-                            position: absolute;
-                            top: 50%;
-                            right: 15px;
-                            transform: translateY(-50%);
-                        }
+                        // &:after {
+                        //     content: "+";
+                        //     display: block;
+                        //     position: absolute;
+                        //     top: 50%;
+                        //     right: 15px;
+                        //     transform: translateY(-50%);
+                        // }
 
                         // &:hover {
                         //     &:after {
@@ -60,15 +60,21 @@ header {
                     z-index: 999;
 
                     opacity: 0;
-                    transform: translateY(-200px);
+                    //transform: translateY(-200px);
                     pointer-events: none;
-                    transition: 0.3s ease-out;
+                    //transition: 0.3s ease-out;
 
                     min-width: 100%;
                     width: max-content;
 
+                    margin-left: 0px;
+                    
                     list-style-type: none;
 
+                    background-color: #fdfdfd;
+                    border: 1px solid #e8e8e8;
+                    border-radius: 5px;
+                    
                     .menu-item {
                         width: 100%;
                     }
